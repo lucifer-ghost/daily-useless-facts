@@ -1,6 +1,6 @@
 <div align="center">
 
-✅ README.md — Full Project Details Template
+✅ README.md — Full Project Details Template </br>
 Daily Useless Facts
 </div>
 
